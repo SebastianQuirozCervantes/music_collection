@@ -1,0 +1,7 @@
+API DE COLECCIÓN MUSICAL:
+
+1) Agregar una obra a mi colección 
+2) Ver todas las obras en mi colección
+3) Ver todas las obras de un autor en particular
+4) Buscar una obra por su nombre o autor
+5) Editar una obra. 
