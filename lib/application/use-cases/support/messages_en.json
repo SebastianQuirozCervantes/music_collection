@@ -11,6 +11,7 @@
     "no_exist_album": "Album not exist."
   },
   "collection": {
+    "no_song": "Songs not found",
     "no_collection": "Collection not found.",
     "no_authorization_collection": "You are not authorized to see this collection.",
     "song_exist": "The song just exist in the collection.",

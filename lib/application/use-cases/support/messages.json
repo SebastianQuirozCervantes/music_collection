@@ -11,6 +11,7 @@
     "no_exist_album": "No existe el albúm elegido."
   },
   "collection": {
+    "no_song": "No se encontro la canción",
     "no_collection": "No se encontró la coleción.",
     "no_authorization_collection": "No está autorizado a ver esta coleción.",
     "song_exist": "La canción ya existe en la coleción.",
