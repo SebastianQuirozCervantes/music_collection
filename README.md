@@ -23,15 +23,15 @@ $ npm run dev
 ```
 
 ### Deploy URL
-https://infinite-earth-38624.herokuapp.com/production
+https://musical-collection-sq.herokuapp.com/production
 
 ### Services
-1. POST -> /auth/sign-in Loguearse.
-2. GET -> /author/:id/songs Obtener canciones de un autor.
-3. GET -> /songs Obtener canciones por nombre de autor o canción.
-4. GET -> /collections/:id/songs Obtener canciones de una colección propia.
-5. POST -> /collection-song Agregar una canción en una colección
-6. PUT -> /songs/:id Actualizar una canción
+1. POST -> /auth/sign-in Loguearse. (SIN AUTENTICACIÓN)
+2. GET -> /author/:id/songs Obtener canciones de un autor. (SIN AUTENTICACIÓN)
+3. GET -> /songs Obtener canciones por nombre de autor o canción. (SIN AUTENTICACIÓN)
+4. GET -> /collections/:id/songs Obtener canciones de una colección propia. (CON AUTENTICACIÓN)
+5. POST -> /collection-song Agregar una canción en una colección (CON AUTENTICACIÓN)
+6. PUT -> /songs/:id Actualizar una canción (CON AUTENTICACIÓN)
 
 ### Estructura del proyecto
 1. Interfaces:
